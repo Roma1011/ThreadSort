@@ -1,0 +1,15 @@
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\bin\Debug\net7.0\ThreadSorting.exe
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\bin\Debug\net7.0\ThreadSorting.deps.json
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\bin\Debug\net7.0\ThreadSorting.runtimeconfig.json
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\bin\Debug\net7.0\ThreadSorting.dll
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\bin\Debug\net7.0\ThreadSorting.pdb
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.csproj.AssemblyReference.cache
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.AssemblyInfoInputs.cache
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.AssemblyInfo.cs
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.csproj.CoreCompileInputs.cache
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.dll
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\refint\ThreadSorting.dll
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.pdb
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ThreadSorting.genruntimeconfig.cache
+D:\Programing\c# .NET\ThreadSorting\ThreadSorting\obj\Debug\net7.0\ref\ThreadSorting.dll
